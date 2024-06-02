@@ -1,0 +1,3 @@
+# Introduction
+
+Mudoran is created to be a community tool for inspiration and basis of Zelda-based languages. To this end, I have decided to approach it by analyzing canonical words from the video games, and creating a consonant-root system similar to the well-known systems used in Arabic or Hebrew. I am trying to analyze the choice of words used throughout the games in order to pick words which feel likely to be of Hylian origin (and a wordlist is available in [[_meta/wordlist|wordlist]])
