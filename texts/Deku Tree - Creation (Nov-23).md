@@ -2,6 +2,19 @@
 > Before time began, before spirits
 > and life existed...
 
+```ngloss
+\ex otoipʔ iiʔr₂oʃi tor₁aina, otoipʔ iitkor₁i otoipʔ iifr₂oʃi tor₁aiʔa
+\gl otoipʔ [o.tojp] [] []
+	iiʔr₂oʃi [iiʔ.r₂o.ʃi] [] []
+	tor₁aina [to.r₁ai.na] [] []
+	otoipʔ [o.tojp] [] []
+	iitkor₁i [iit.ko.r₁i] [] []
+	otoipʔ [o.tojp] [] []
+	iifr₂oʃi [ii.fr₂o.ʃi] [] []
+	tor₁aiʔa [to.r₁ai.ʔa] [] []
+\ft Before time began, before spirit, before life existed...
+```
+
 ```gloss
 \ex otoip' ii'roʃi towaina, otoip' iidkowi otoip' iivroʃi towai'a...
 \gla otoip' ii'roʃi towaina, otoip' iidkowi otoip' iivroʃi towai'a...
@@ -12,7 +25,7 @@
 
 
 > [!NOTE] Positional Conjunctions
-> Mudoran allows a way to connect ideas by using a parallel structure, particularly by using the same positional for several nouns which chare the same verb, thus the literal "before spirit before life existed" is a way to construct "before spirit(s) and life existed."
+> Mudoran allows a way to connect ideas by using a parallel structure, particularly by using the same positional for several nouns which share the same verb, thus the literal "before spirit before life existed" is a way to construct "before spirit(s) and life existed."
 
 > [!NOTE] Deku Tree
 > Three golden goddesses descended

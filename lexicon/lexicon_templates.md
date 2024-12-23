@@ -8,7 +8,7 @@
 - \{\***1o23ai**} (class 4 noun)
 - \{\***1u2a3**} (class 1 verb)
 - \{\***1u2iː3**} (class 2 verb)
-- \{\***1r${_3}$u2o3**} (class 3 verb)
+- \{\***1r₃u2o3**} (class 3 verb)
 
 ## A
 - \{\***a1u23iː**} (class 4 verb)
@@ -21,10 +21,10 @@
 
 ## O
 
-## R${_1}$
+## R₁
 
-## R${_2}$
+## R₂
 
-## R${_3}$
+## R₃
 
 ## U

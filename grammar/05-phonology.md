@@ -9,7 +9,7 @@ tags:
 > [!Technical]
 > This document contains technical information, as Mudoran is a reconstructed proto-language. While we seek to do out best to keep this grammar accessible to readers of all skill levels, you will need to understand some of the technical details in this chapter to get the most out of your time with Mudoran.
 
-Before we go any further, we need to establish that the Mudoran (**MDR**) language presented here is reconstructed, and there are some elements of it that we simply do not know for certain at this point in time. We can only hypothesize on some elements, such as the precise sounds represented by r${_1}$, r${_2}$, and r${_3}$, and some hypotheses presented here may be particularly wild. If you can accept that there is not a 100% definite way to read every single Mudoran word out loud, then we can continue.
+Before we go any further, we need to establish that the Mudoran (**MDR**) language presented here is reconstructed, and there are some elements of it that we simply do not know for certain at this point in time. We can only hypothesize on some elements, such as the precise sounds represented by r₁, r₂, and r₃, and some hypotheses presented here may be particularly wild. If you can accept that there is not a 100% definite way to read every single Mudoran word out loud, then we can continue.
 
 Are you still with us?
 
@@ -18,12 +18,12 @@ Good. Mudoran is a proto-language and is proposed to be the earliest language we
 ## Consonants
 Most of the consonants in Mudoran are fairly simple at the surface level. There is only one consonant at any given place and manner of articulation used in Mudoran, and any other qualities of these sounds seems to be conditioned by stress, adjoined resonants, and vowel length.
 
-|               | Labial | Alveolar | Postalveolar |  Velar  | Glottal |
-| ------------- | :----: | :------: | :----------: | :-----: | :-----: |
-| **Nasal**     |   m    |          |      n       |         |         |
-| **Stop**      |   p    |          |      t       |    k    | ʔ \<'>  |
-| **Fricative** |   f    |    s     |   ʃ \<sh>    |    x    |    h    |
-| **Resonant**  |        | r${_1}$  |   r${_3}$    | r${_2}$ |         |
+|               | Labial | Alveolar | Postalveolar | Velar | Glottal |
+| ------------- | :----: | :------: | :----------: | :---: | :-----: |
+| **Nasal**     |   m    |          |      n       |       |         |
+| **Stop**      |   p    |          |      t       |   k   | ʔ \<'>  |
+| **Fricative** |   f    |    s     |   ʃ \<sh>    |   x   |    h    |
+| **Resonant**  |        |    r₁    |      r₃      |  r₂   |         |
 This is only 14 consonants, and 11 of them are very straightforward. In the event you aren't already familiar, we'll walk through the table.
 
 Each column of this table is a **place of articulation**, or where your mouth shapes the airflow to produce a sound. This moves from the front of the mouth on the left to the back of the mouth on the right:
@@ -59,20 +59,23 @@ Resonant is a style of articulation, but we are uncertain exactly what manner of
 
 We have chosen the term **resonant** because it seems most probable that these sounds were voiced and were either vowels, semi-vowels, or nuclear consonants.
 
-#### r${_1}$
-The sound represented by r${_1}$ is strongly believed to have been an approximant, a sound in which the tongue moves towards a place of articulation, but does not close or nearly close -- the sound is about halfway between a vowel and a consonant in how it is formed. We do not know what place of articulation or which type of approximant (central or lateral) this sound was, nor if it had a rhotic quality (though it may have).
+#### r₁
+The sound represented by r₁ is strongly believed to have been an approximant, a sound in which the tongue moves towards a place of articulation, but does not close or nearly close -- the sound is about halfway between a vowel and a consonant in how it is formed. We do not know what place of articulation or which type of approximant (central or lateral) this sound was, nor if it had a rhotic quality (though it may have).
 
-We are highly confident that r${_1}$ was an approximant because it tends to lengthen preceding vowels (/ar${_1}$/ ${\rightarrow}$ /aː/), open following vowels (/r${_1}$i/ ${\rightarrow}$ /e/), and extend voicing into following consonants (/r${_1}$t/ ${\rightarrow}$ /d/). This sound is represented in romanization as \<~> to reflect these functions.
+We are highly confident that r₁ was an approximant because it tends to lengthen preceding vowels (/ar₁/ ${\rightarrow}$ /aː/), open following vowels (/r₁i/ ${\rightarrow}$ /e/), and extend voicing into following consonants (/r₁t/ ${\rightarrow}$ /d/). This sound is represented in romanization as \<~> to reflect these functions.
 
-#### r${_2}$
-The sound represented by r${_2}$ is strongly believed to have been a back consonant, which may have been a *velar, uvular,* or *glottal*. It produced a stronger break in airflow than the other two resonants, possibly being a stop, tap, or trill. We do not know what the manner of articulation was, only that it probably involved some level of complete airflow stopping.
+#### r₂
+The sound represented by r₂ is strongly believed to have been a back consonant, which may have been a *velar, uvular,* or *glottal*. It produced a stronger break in airflow than the other two resonants, possibly being a stop, tap, or trill. We do not know what the manner of articulation was, only that it probably involved some level of complete airflow stopping.
 
-We are confident that r${_2}$ is a back sound because it tends to round adjoining vowels on either side (/ar${_2}$/ ${\rightarrow}$ /ɶ/, /r${_2}$i/ ${\rightarrow}$ /y/), and that it involved a high degree of stopping because it tends to leave glottal stops between vowels and unpredictable stops after other consonants (/ar${_2}$i/ ${\rightarrow}$ /aʔi/, /ʃr${_2}$/ ${\rightarrow}$ /ʃk/, /ʃt/). This sound is represented as \<•> in romanization to reflect the syllable-breaking effect of this sound.
+We are confident that r₂ is a back sound because it tends to round adjoining vowels on either side (/ar₂/ ${\rightarrow}$ /ɶ/, /r₂i/ ${\rightarrow}$ /y/), and that it involved a high degree of stopping because it tends to leave glottal stops between vowels and unpredictable stops after other consonants (/ar₂i/ ${\rightarrow}$ /ɶʔi/, /ʃr₂/ ${\rightarrow}$ /ʃk/, /ʃt/). This sound is represented as \<•> in romanization to reflect the syllable-breaking effect of this sound.
 
-#### r${_3}$
-The sound represented by r${_3}$ is strongly believed to have been a lateral, though it is unclear whether it was a fricative or approximant, or where exactly it was formed other than it not being at the back of the mouth. This suggests it was likely between the *alveolar* and *palatal* places, though it could theoretically also be a *dental* sound.
+#### r₃
+The sound represented by r₃ is strongly believed to have been a lateral, though it is unclear whether it was a fricative or approximant, or where exactly it was formed other than it not being at the back of the mouth. This suggests it was likely between the *alveolar* and *palatal* places, though it could theoretically also be a *dental* sound.
 
-We are confident that r${_3}$ was lateral because it tends to leave other sounds which have a raised tongue position around it: vowels adjacent to it become more closed (/ar${_3}$/ ${\rightarrow}$ /ɛ/, /r${_3}$o/ ${\rightarrow}$ /u/), preceding consonants tend to become palatalized (/pr${_3}$/ ${\rightarrow}$ /pʲ/), while following consonants become more closed (/r${_3}$s/ ${\rightarrow}$ /t/). Where r${_3}$ occurs between a vowel and a nasal, the vowel tends to become nasalized (/ar${_3}$m/ ${\rightarrow}$ /ã/). This sound is represented as \<\^> in romanization to reflect the raising effects it leaves behind.
+We are confident that r₃ was lateral because it tends to leave other sounds which have a raised tongue position around it: vowels adjacent to it become more closed (/ar₃/ ${\rightarrow}$ /ɛ/, /r₃o/ ${\rightarrow}$ /u/), preceding consonants tend to become palatalized (/pr₃/ ${\rightarrow}$ /pʲ/), while following consonants become more closed (/r₃s/ ${\rightarrow}$ /t/). Where r₃ occurs between a vowel and a nasal, the vowel tends to become nasalized (/ar₃m/ ${\rightarrow}$ /ã/). This sound is represented as \<\^> in romanization to reflect the raising effects it leaves behind.
+
+> [!Transcription Note]
+> In some early documents, before indefinite resonants were proposed, r₁ was generally represented by \<w>, r₂ by \<r>, and r₃ by \<l>. As of 2025-Jan-01, we have not yet updated all of our documentation to use resonant notation.
 
 ## Vowels
 This brings us to the vowels, and while there is some debate on how many underlying vowels were present in Mudoran, we currently reconstruct a system of four vowels:
@@ -124,11 +127,11 @@ What follows is a quick guide to how to type, read, and pronounce Mudoran:
 | ʃ              | sh               | **sh**are            | /**ʃ**eɹ/                 |
 | x              | x                | ble**ch**            | /blɛ**x**/                |
 | h              | h                | **h**ere             | /hiɹ/                     |
-| r${_1}$        | ~                | ---                  | ---                       |
-| r${_2}$        | •, \*            | ---                  | ---                       |
-| r${_3}$        | ^                | ---                  | ---                       |
+| r₁             | ~                | ---                  | ---                       |
+| r₂        | •, \*            | ---                  | ---                       |
+| r₃        | ^                | ---                  | ---                       |
 > [!Typing]
-> On Windows, the <•> can be typed by holding The ALT key and typing 0149 on your number pad. On Apple devices with a physical keyboard, you can type it using OPT+8. If you cannot access it, you may use an \<\*> instead.
+> On Windows, the <•> can be typed by holding The ALT key and typing 0149 on your number pad. On Apple devices with a physical keyboard, you can type it using OPT+8. If you cannot access it, you may use an \<\*> instead. In this case, if you are also using Markdown (as our documentation does), make sure to escape your asterisk with a \\ backslash.
 
 It is important to note that in the beginning of words or stressed syllables, the plosives /p, t, k/ maybe be aspirated in Mudoran, a phenomenon that also happens in the vast majority of English speakers. It does not change the meaning of any word to aspirate these sounds or not, so they may both be readily represented by the same letter in romanization.
 
@@ -153,7 +156,7 @@ If you can read the IPA symbols here, we encourage you to model your pronunciati
 The tables above summarize the IPA and Romanized symbols for use in typing or writing Mudoran. Most of the letters are very straightforward, though you may need an IPA input method to type some of them. The most important thing when writing Mudoran is that you practice a consistent approach and reliably use the same symbols for the same sounds, but some of our preferences are below:
 
 #### Resonants
-When writing the Mudoran resonants in IPA, we recommend using subscript numerals whenever possible, as r${_1}$, r${_2}$, r${_3}$. If it is not possible, the secondary preference is to use a capitalized R followed by the numeral for the resonant being represented, as R1, R2, R3. Barring that, using the romanized symbols \~, •, and \^ is the fallback option.
+When writing the Mudoran resonants in IPA, we recommend using subscript numerals whenever possible, as r₁, r₂, r₃. If it is not possible, the secondary preference is to use a capitalized R followed by the numeral for the resonant being represented, as R1, R2, R3. Barring that, using the romanized symbols \~, •, and \^ is the fallback option.
 
 #### Long Vowels
-Our standard preference for writing long vowels in romanized Mudoran is to use the underlying vowel with a macron, and our secondary is to use a colon \: after the vowel. So long as you aren't mixing multiple approaches, you can also simply write each vowel twice, as in *aa* to indicate the long vowel in romanized text.
+Our standard preference for writing long vowels in romanized Mudoran is to use the underlying vowel with a macron, and our secondary is to use a colon \: (or the IPA long symbol ː) after the vowel. So long as you aren't mixing multiple approaches, you can also simply write each vowel twice, as in *aa* to indicate the long vowel in romanized text.
