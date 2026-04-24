@@ -23,7 +23,8 @@
 + \<**kr₁ʔ**> (_draft\_iii._) 1. shelled fruit, nut, gourd 2. scales, hide, tough skin 3. sturdy, durable 4. trade, buy, sell
 
 ## M
-+ \<**mkm**> (_root, mogma._) 1. hole, tunnel 2. loose earth 3. hidden yet known 4. to tend, to care for
++ \<**mkn**> (_root, mogma._) 1. hole, tunnel 2. loose earth 3. hidden yet known 4. to tend, to care for
++ \<**mnt**> (root, _monte._) 1. mouth, voice 2. concept, word 3. bay, harbor 4. to communicate, to inspire
 + \<**mpʔ**> (_draft\_i._) experience, age, leadership
 + \<**msk**> (_draft\_i._) pillar, rise up, tall, straight; tree
 + \<**mtr₂**> (_draft\_i._) nature, knowledge

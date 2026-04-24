@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/05-phonology.md",
+                "file": "grammar/06-root-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-phonology"
+              "title": "06-root-template"
+            }
+          },
+          {
+            "id": "dca012e9d1b1d77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/lexicon_roots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lexicon_roots"
+            }
+          },
+          {
+            "id": "b980fb5ac0442cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/lexicon_templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lexicon_templates"
+            }
+          },
+          {
+            "id": "d55e1bf8d0ca5840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/06-root-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-root-template"
+            }
+          },
+          {
+            "id": "ac1b065d05d4945f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/lexicon_roots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lexicon_roots"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "0afe3d4450be4f8a",
@@ -47,12 +104,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/list-lexember23.md",
+                "file": "lexicon/words/t/tano•.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "list-lexember23"
+              "title": "tano•"
+            }
+          },
+          {
+            "id": "e71ec83e48ad5a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/template/1a.'2ō3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1a.'2ō3"
+            }
+          },
+          {
+            "id": "a1a442ec5dedde78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/root/f•ʃ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "f•ʃ"
             }
           },
           {
@@ -89,30 +174,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/lexicon_roots.md",
+                "file": "grammar/05-phonology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lexicon_roots"
-            }
-          },
-          {
-            "id": "dca012e9d1b1d77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_meta/wordlist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wordlist"
+              "title": "05-phonology"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +202,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_meta/wordlist.md",
+                "file": "lexicon/template/1i2.'3ā.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +266,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for wordlist"
+              "title": "Backlinks for 1i2.'3ā"
             }
           },
           {
@@ -203,12 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_meta/wordlist.md",
+                "file": "lexicon/template/1i2.'3ā.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from wordlist"
+              "title": "Outgoing links from 1i2.'3ā"
             }
           },
           {
@@ -230,10 +302,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_meta/wordlist.md"
+                "file": "lexicon/template/1i2.'3ā.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of wordlist"
+              "title": "Outline of 1i2.'3ā"
             }
           }
         ]
@@ -245,6 +317,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -253,43 +326,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dca012e9d1b1d77a",
+  "active": "ac1b065d05d4945f",
   "lastOpenFiles": [
-    "grammar/05-phonology.md",
-    "grammar/07-verbs-1.md",
+    "lexicon/template/1i2.'3ā.md",
+    "lexicon/template/1a.'2ō3.md",
+    "lexicon/words/t/tano•.md",
+    "lexicon/words/f/fa•ōʃ.md",
+    "lexicon/root/f•ʃ.md",
+    "lexicon/template/'1i2.3a.md",
+    "lexicon/lexicon_roots.md",
+    "_template/template-page-wik.md",
+    "lexicon/list-lexember23.md",
+    "lexicon/list-newvember23.md",
     "grammar/06-root-template.md",
+    "lexicon/words/template/1i2.'3ā.md",
+    "lexicon/words/template",
+    "scratchpads/Koallary Zonai.md",
+    "lexicon/templates",
+    "texts/Deku Tree - Creation (Nov-23).md",
+    "_template/word-page-wik.md",
+    "grammar/05-phonology.md",
+    "lexicon/lexicon_templates.md",
+    "grammar/07-verbs-1.md",
+    "lexicon/root/md•.md",
+    "_template/root-page-wik.md",
+    "lexicon/template",
+    "lexicon/root",
+    "lexicon/words/a/aatonri.md",
     "_meta/wordlist.md",
     "A_Primer_on_CH_Phonology.md",
-    "_template/word-page-wik.md",
     "scratchpads/20231119.md",
     "scratchpads/20231118.md",
     "scratchpads/20231117.md",
-    "scratchpads/20231116.md",
-    "scratchpads/Koallary Zonai.md",
     "lexicon/words/r3",
     "lexicon/words/r2",
     "lexicon/words/r1",
     "lexicon/words/h",
     "lexicon/words/x",
-    "lexicon/words/ʃ",
-    "lexicon/words/s",
-    "lexicon/words/f",
-    "lexicon/words/Untitled.md",
-    "_template/ipa_char/'.md",
-    "lexicon/words/ʔ",
-    "lexicon/words/k",
-    "lexicon/lexicon_roots.md",
-    "lexicon/list-lexember23.md",
-    "lexicon/list-newvember23.md",
-    "lexicon/lexicon_templates.md",
-    "_template/ipa_char/r1.md",
-    "_template/ipa_char/r3.md",
-    "_template/ipa_char/r2.md",
-    "texts/Deku Tree - Creation (Nov-23).md",
-    "contributors/oztin.md",
-    "_template/ipa_char/epsi.md",
-    "_template/ipa_char/_stress-s.md",
-    "_template/ipa_char/_stress-p.md",
-    "_template/ipa_char/_pal.md"
+    "lexicon/words/ʃ"
   ]
 }

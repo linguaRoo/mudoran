@@ -4,7 +4,7 @@ tags:
   - template-system
 ---
 # Consonantal Roots & Vowel Templates
-Mudoran is a root & template language, which means that the underlying word stems for further development can all be formed by combining a **root** (usually 3 unique consonants) with a **template** (usually 2-4 vowels). Of these elements, roots are represented in \<angle brackets>, and templates are represented in \{curly braces}.
+Mudoran is a root & template language, which means that the underlying word stems for further development can all be formed by combining a **root** (usually 3 unique consonants) with a **template** (usually 2-4 vowels or nuclear consonants). Of these elements, roots are represented in \<angle brackets>, and templates are represented in \{curly braces}.
 
 Roots can be referred to by the name of a significant person or concept associated with them, such as a deity, a group of Hylian people, or a concept. These terms are modern inventions, and by no means do we believe they were a historical part of discussing these terms, if indeed Mudorans ever *did* discuss linguistics.
 
@@ -22,19 +22,19 @@ Other roots have similar ranges of meanings, some staying much closer to a singl
 ## Templates
 A root isn't a word -- to become a word, it must be brought together with something else, a **template** which is composed of several vowels and slots for the letters of a root to fit into. Now, it should be noted that we call these *vowel templates*, but they can actually contain a few consonants as well -- these consonants are called *nuclear* or *syllabic* consonants.
 
-A template takes the form of \<\*1a2iu3i> "class 1 noun," where the numerals 1, 2, 3 represent the positions where the consonants are placed into the template. Despite the sample provided here, there is no requirement that there be any vowels between two consonants, this is only a way to introduce the concept.
+A template takes the form of \{\*1a2iu3i} "class 1 noun," where the numerals 1, 2, 3 represent the positions where the consonants are placed into the template. Despite the sample provided here, there is no requirement that there be any vowels between two consonants, this is only a way to introduce the concept.
 
-> \***taniur₂i** (class 1 noun) fire, heat
-> \***taniur₂aː** (class 2 noun) earth, land, continent
-> \***tonr₂iː** (class 3 noun) power, might, strength
-> \***tonar₂ai** (class 4 noun) danger, struggle, suffering
+> \***tinr₂aː** (class 1 noun) fire, heat
+> \***tanr₂uː** (class 2 noun) earth, land, continent
+> \***tanor₂** (class 3 noun) power, might, strength
+> \***taːnr₂a** (class 4 noun) danger, struggle, suffering
 
 This introduces the basic noun templates:
 
-- \<\***1a2iu3i**> class one noun; a noun from the first conceptual space of the root.
-- \<\***1a2iu3aː**> class two noun; a noun from the second conceptual space of the root
-- \<\***1o23iː**> class three noun; a noun from the third conceptual space of the root
-- \<\***1o2a3ai**> class four noun; a noun from the fourth conceptual space of the root
+- **\{\*1i23a:}** Class I noun; a noun from the first conceptual space of the root
+- **\{\*1a23u:}** Class II noun; a noun from the second conceptual space of the root
+- **\{\*1a2o3}** Class III noun; a noun from the third conceptual space of the root
+- **\{\*1a:23a}** Class IV noun; a noun from the fourth conceptual space of the root
 
 ### Advanced Templates 1
 Templates can be explained simply as a set of vowels with spaces defined for the consonants to be placed into, but this is only the simplest form of template available in Mudoran. We will discuss other templates as they become more relevant, but to begin with, be aware that Mudoran roots must always be unique sequences of consonants, and it's possible for a template to insert the same consonant multiple times, as in this example:
