@@ -6,12 +6,12 @@ Copular verbs take their tense from context, and are the simplest verbs to learn
 
 > **tr₁ʔ** 1. copula, fact 2. real, actual, existing 3. knowledge, information, knowing 4. instinct, belief, feeling
 
-| Class | Template         | Sample Root    | Sample Word                         |
-| ----- | ---------------- | -------------- | ----------------------------------- |
-| 1     | \{\***1u2a3**}   | \<\***tr₁ʔ**\> | \***tu\~aʔ** "is, am, being"        |
-| 2     | \{\***1u2iː3**}  | \<\***tr₁ʔ**\> | \***tu\~iːʔ** "existing"            |
-| 3     | \{\***1r₃u2o3**} | \<\***tr₁ʔ**\> | \***t\^u\~oʔ** "knowing"            |
-| 4     | \{\***a1u23iː**} | \<\***tr₁ʔ**\> | \***atu\~ʔiː** "feeling, believing" |
+| Class | Template                                      | Sample Root                           | Sample Word                                             |
+| ----- | --------------------------------------------- | ------------------------------------- | ------------------------------------------------------- |
+| 1     | \{\***_[1u2a3](lexicon/template/1u2a3.md)_**} | \<\***[tr₁ʔ](lexicon/rtoo/t~ʔ.md)**\> | \***[tu~aʔ](lexicon/words/t/tu~aʔ.md)** "is, am, being" |
+| 2     | \{\***1u2iː3**}                               | \<\***tr₁ʔ**\>                        | \***tu\~iːʔ** "existing"                                |
+| 3     | \{\***1r₃u2o3**}                              | \<\***tr₁ʔ**\>                        | \***t\^u\~oʔ** "knowing"                                |
+| 4     | \{\***a1u23iː**}                              | \<\***tr₁ʔ**\>                        | \***atu\~ʔiː** "feeling, believing"                     |
 Note that all of these are things one can be said to **be**, to **be doing**, or to **experience** -- based on the four classes of **tr₁ʔ**. We are using this root so we can look at the concept of copular verbs easily, but all other copular verbs can be said to be a state or concept of being, existing as, knowing, or feeling whatever their verb is.
 
 Once we have formed our basic verbs, we also need to inflect them in three other ways: For gender (Din, Nayru, Farore), for number (singular, plural, collective), and for tense. From what we have reconstructed, gender and number are formed primarily by ablaut -- that is to say by changing or adding elements to the vowel template, while tense is formed by a prefix or suffix depending on the class.

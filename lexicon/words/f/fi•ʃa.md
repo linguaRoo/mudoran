@@ -3,29 +3,33 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+  - noun
+  - concrete
+englishGloss:
+  - root
+  - seed
 contributors:
+  - Oz
 ---
-# **_ʔmotia_**
+# **_fir₂ʃa_**
 
 # Mudoran (HLS)
 
 ## Root & Template
 
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**fr₂ʃ**> plus template \{'1**i**2.3**a**}
 
 ## Etymology & Descendants
 
 ## Pronunciation
 
-- **IPA Broad**: /f.ni.mɪk/
+- **IPA Broad**: /'fɪr₂.ʃa/, /'fɪʔ.ʃa/
 
-## 1. Class
+## 1. Noun
 
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### fir₂ʃa (singular)
+1. root, seed
 
 # Thesaurus
 

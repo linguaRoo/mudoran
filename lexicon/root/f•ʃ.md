@@ -9,10 +9,13 @@ contributors:
 # **_fr₂ʃ_**
 
 # Mudoran (HLS)
+
 ## Etymology & Descendants
+
 - This root is constructed from the name of Farosh (フロドラ "furod(o)ra") which is presumed to be related to Farore (フロル "furor(u)"). It is the root used for words related to Farore and the dragon Farosh, such as wind, lightning, life, and courage.
 
 ## Pronunciation
+
 - **IPA Broad**: /fa.r₂a.ʃa/ (dictionary reading)
 
 ## Class 1
@@ -32,7 +35,9 @@ contributors:
 	2. **_faːr₂ʃaː_** | morality
 
 # Thesaurus
+
 ## Homolemmas
+
 ## Synonyms
 
 ## Antonyms
@@ -40,6 +45,7 @@ contributors:
 ## Derived Terms
 
 ### Compound Words
+
 ### Phrasal Terms
 
 ## Related Terms

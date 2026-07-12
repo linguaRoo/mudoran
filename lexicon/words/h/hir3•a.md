@@ -3,29 +3,33 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+  - noun
+  - concrete
+englishGloss:
+  - body
+  - appearance
 contributors:
+  - Oz
 ---
-# **_ʔmotia_**
+# **_hir₃r₂a_**
 
 # Mudoran (HLS)
 
 ## Root & Template
 
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**hr₃r₂**> plus template \{'1**i**2.3**a**}
 
 ## Etymology & Descendants
 
 ## Pronunciation
 
-- **IPA Broad**: /f.ni.mɪk/
+- **IPA Broad**: /'hir₃.r₂a/, /'hi^.•a/
 
-## 1. Class
+## 1. Noun
 
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### hi^•a (singular)
+1. body, appearance
 
 # Thesaurus
 

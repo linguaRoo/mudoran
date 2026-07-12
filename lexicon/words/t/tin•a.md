@@ -3,29 +3,31 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+  - noun
+  - concrete
+englishGloss:
+  - ore
+  - metal
 contributors:
+  - Oz
 ---
-# **_ʔmotia_**
+# **_tinr₂a_**
 
 # Mudoran (HLS)
 
 ## Root & Template
-
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**tnr₂**> plus template \{'1**i**23**a**}
 
 ## Etymology & Descendants
 
 ## Pronunciation
+- **IPA Broad**: /'tin.r₂a/
 
-- **IPA Broad**: /f.ni.mɪk/
+## 1. Noun
 
-## 1. Class
-
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### tinr₂a (singular)
+1. metal, ore 
 
 # Thesaurus
 

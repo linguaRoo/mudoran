@@ -3,29 +3,31 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+  - noun
+  - concrete
+englishGloss:
+  - crystal
+  - gemstone
 contributors:
+  - Oz
 ---
-# **_ʔmotia_**
+# **_nir₃r₂a_**
 
 # Mudoran (HLS)
 
 ## Root & Template
-
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**nr₃r₂**> plus template \{1**i**2.3**a**}
 
 ## Etymology & Descendants
 
 ## Pronunciation
+- **IPA Broad**: /nir₃.r₂a/, /niʎ.•a/
 
-- **IPA Broad**: /f.ni.mɪk/
+## 1. Noun
 
-## 1. Class
-
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### ni^•a (singular)
+1. crystal, gemstone
 
 # Thesaurus
 

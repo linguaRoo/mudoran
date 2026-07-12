@@ -16,6 +16,7 @@
 
 ## K
 + \<**kmr₂**> (_root, kamaro._) 1. moon, night 2. light (visible, colorless), brightness 3. ~~GLOSS NOT DEFINED~~ 4. to show, to reveal
++ \<**kn**> (_draft\_i._) 1. poison, disease 2. malice, gloom, greed 3. hidden, concealed 4. to covet, to lust
 + \<**kr₂n**> (_root, goron._) 1. stone, rock, mountain 2. goron 3. tall 4. to dig through rocks, to mine
 + \<**kr₃s**> (_draft\_i._) barrier, competition (edited)
 + \<**kr₁t**> (_draft\_iii._) 1. sand, dust 2. ~~GLOSS NOT DEFINED~~ 3. dry, arid 4. to struggle, to take (as a reward)
@@ -53,6 +54,7 @@
 
 ## S
 + <**sr₁r₂**> (_draft\_iii._) 1. sound, noise 2. music 3. pleasant sounding, soothing, calming 4. to reflect, to meditate
++ \<**sr₃ʔ**> (_draft\_iii._) 1. fish, water animal 2. multitude, many, pack, swarm, school 3. hundred, hundred counter 4. to teem, to stampede, to charge forth (in numbers)
 + <**sr₃t**> (_draft\_iii._) destiny, fate, future
 + <**stn**> (_draft\_iii._) seven, sibilance, emotion, refining
 + <**str₃**> (_draft\_iii, stal._) 1. bone, stick, sturdy, strike **NMH:** _stale, sale, striuke_

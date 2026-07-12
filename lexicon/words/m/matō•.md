@@ -3,29 +3,27 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+englishGloss:
 contributors:
 ---
-# **_ʔmotia_**
+# **_matoːr₂_**
 
 # Mudoran (HLS)
-
 ## Root & Template
-
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**mtr₂**> plus template \{1**a**2**oː**3}
 
 ## Etymology & Descendants
 
 ## Pronunciation
+- **IPA Broad**: /ma.tor₂/
 
-- **IPA Broad**: /f.ni.mɪk/
+## 1. Noun
 
-## 1. Class
-
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### matoːr₂ (singular)
+1. nature, the natural world 
+2. knowledge, information
+3. origin
 
 # Thesaurus
 
@@ -36,7 +34,6 @@ Root \<**ʔmt**> plus template \{12**o**3**ia**}
 ## Derived Terms
 
 ### Compound Words
-
 ### Phrasal Terms
 
 ## Related Terms

@@ -3,29 +3,29 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+englishGloss:
 contributors:
 ---
-# **_ʔmotia_**
+# **_r₃inka_**
 
 # Mudoran (HLS)
 
 ## Root & Template
 
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**[\^nk](lexicon/root/r3nk.md)**> plus template \{'1**i**23**a**}
 
 ## Etymology & Descendants
 
 ## Pronunciation
 
-- **IPA Broad**: /f.ni.mɪk/
+- **IPA Broad**: /'r₃in.ka/
 
-## 1. Class
+## 1. Noun
 
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### r₃inka (singular)
+
+1. altar, shrine; a constructed place of personal sacrifice, worship, or devotion to the divine
 
 # Thesaurus
 

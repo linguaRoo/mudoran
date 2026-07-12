@@ -20,7 +20,7 @@ contributors:
 ## Root & Template
 Root \<[**fr₂ʃ**](lexicon/root/f•ʃ)> plus template \{[1a.ˈ2oː3](lexicon/template/1a.'2ō3.md)}
 
-## Etymology & Descendants
+## Etymology & Reflexes
 - **Breath of the Wild:** Farosh
 
 ## Pronunciation
@@ -33,7 +33,7 @@ Root \<[**fr₂ʃ**](lexicon/root/f•ʃ)> plus template \{[1a.ˈ2oː3](lexicon/
 2. spirit, soul
 
 # Thesaurus
-## Homolemmas
+
 ## Synonyms
 
 ## Antonyms
@@ -41,9 +41,9 @@ Root \<[**fr₂ʃ**](lexicon/root/f•ʃ)> plus template \{[1a.ˈ2oː3](lexicon/
 ## Derived Terms
 
 ### Compound Words
+
 ### Phrasal Terms
 
 ## Related Terms
-
 
 # Translations

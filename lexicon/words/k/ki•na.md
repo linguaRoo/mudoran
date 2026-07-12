@@ -3,29 +3,35 @@ tags:
   - dictionary
   - lexicon
   - word
-partSpeech: 
-englishGloss: 
+partSpeech:
+  - noun
+  - concrete
+englishGloss:
+  - mine
+  - tunnel
 contributors:
+  - Oz
 ---
-# **_ʔmotia_**
+# **_kir₂na_**
 
 # Mudoran (HLS)
 
 ## Root & Template
 
-Root \<**ʔmt**> plus template \{12**o**3**ia**}
+Root \<**kr₂n**> plus template \{'1**i**2.3**a**}
 
 ## Etymology & Descendants
 
 ## Pronunciation
 
-- **IPA Broad**: /f.ni.mɪk/
+- **IPA Broad**: /'kir₂.na/, /kiʔ.na/
 
-## 1. Class
+## 1. Noun
 
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+### kir₂na (singular)
+
+1. mine 
+2. tunnel
 
 # Thesaurus
 
